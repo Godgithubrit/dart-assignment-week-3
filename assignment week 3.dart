@@ -7,6 +7,6 @@ void main(){
   if(number > 10) {
     print('your number is greater than 10');
   }else{
-    print('your number is less than 10');10
+    print('your number is less than 10');
   }
 }
